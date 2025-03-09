@@ -1,0 +1,27 @@
+// import PropTypes from "prop-types"; 
+
+// ProductCard.propTypes = {
+//   product: PropTypes.shape({
+//     id: PropTypes.number.isRequired,
+//     image: PropTypes.string.isRequired,
+//     name: PropTypes.string.isRequired,
+//     price: PropTypes.number.isRequired,
+//     isFavorite: PropTypes.bool.isRequired
+//   }).isRequired,
+//   toggleFavorite: PropTypes.func.isRequired
+// };
+
+
+//context
+// ProductProvider.propTypes = {
+//     children: PropTypes.node.isRequired,
+//   };
+
+// import PropTypes from 'prop-types';
+
+
+
+
+//use effect\
+// // setProducts(Array.isArray(data.products) ? data.products : []); 
+
